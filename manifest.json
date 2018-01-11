@@ -1,0 +1,7 @@
+{
+  "name": "pwa-home",
+  "short_name": "chpc",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "display": "standalone"
+}
